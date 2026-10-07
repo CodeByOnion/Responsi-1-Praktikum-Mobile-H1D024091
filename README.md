@@ -170,3 +170,9 @@ Animaxyz/
 │   └── build.gradle.kts                # Konfigurasi dependensi modul aplikasi
 └── README.md
 ```
+## 📱 Screenshoot UI Apps
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-07 at 23 29 59" src="https://github.com/user-attachments/assets/b537979c-2ec3-4403-8516-6b69e9b366d0" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-07 at 23 29 59 (3)" src="https://github.com/user-attachments/assets/303d18c6-e2d1-44de-90be-84388b697de9" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-07 at 23 29 59 (2)" src="https://github.com/user-attachments/assets/c3d5c280-e8e2-4b6b-9431-4fed9d739186" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-07 at 23 29 59 (1)" src="https://github.com/user-attachments/assets/d2acc9b0-7e0f-42d8-b8d8-0a4fbd1c2678" />
